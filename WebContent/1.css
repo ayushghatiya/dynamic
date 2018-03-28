@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+div#w{color:blue;font-style: italic;}
+div#j{color:red;font-style:oblique;}
+div#c{font:50px bold TimesNewRoman;}
+body{background-image:url("image/23803.jpg");background-repeat:no repeat;}
+body{border-style:dotted;
+
+}

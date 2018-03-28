@@ -1,0 +1,9 @@
+<taglib>
+<tlib-version>1.0</tlib-version>
+<jsp-version>1.0</jsp-version>
+<short_name>example</short_name>
+<tag>
+<name>hello</name>
+<tag-class>p1.myclass</tag-class>
+</tag>
+</taglib>

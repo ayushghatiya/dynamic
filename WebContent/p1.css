@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+/* body{background-image:url("image/images.jpeg");background-repeat:inherit;} */
+
+body {
+    background-image: url("image/images.jpeg");
+    background-repeat: no-repeat !important;
+    
+    
+}
+/*  body{ background: url(image/images.jpeg) no-repeat center center fixed;}  */
+ 
